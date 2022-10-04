@@ -1,0 +1,20 @@
+{"ratings": [
+    {
+        "courseCode": "CPSC210",
+        "name": "Apple Red",
+        "comment": "Perfect professor!",
+        "quality": "5"
+    },
+    {
+        "courseCode": "CPSC110",
+        "name": "Banana Yellow",
+        "comment": "Not very good professor.",
+        "quality": "1"
+    },
+    {
+        "courseCode": "1",
+        "name": "1",
+        "comment": "1",
+        "quality": "1"
+    }
+]}

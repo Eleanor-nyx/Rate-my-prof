@@ -1,0 +1,14 @@
+{"ratings": [
+    {
+        "courseCode": "CPSC110",
+        "name": "Red Blue",
+        "comment": "She is a perfect professor for this course",
+        "quality": "4"
+    },
+    {
+        "courseCode": "CPSC210",
+        "name": "Apple Banana",
+        "comment": "He is a perfect professor for this course",
+        "quality": "4"
+    }
+]}
